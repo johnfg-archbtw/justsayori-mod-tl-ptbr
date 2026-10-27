@@ -5,21 +5,21 @@
 
 # Just Sayori (JS)
 
-_Just Sayori_ is a mod for the free game [Doki Doki Literature Club](https://www.ddlc.moe) from [Team Salvato](http://teamsalvato.com/).
+_Just Sayori_ agora tem tradução para Português Brasileiro!
 
-In it, you can become closer to Sayori than ever before! You have all the time in the world to build the perfect relationship with our cinnamon bun as the star of the show. At the heart of the mod, we took a mental health-based approach in line with the experiences Sayori had in the original game, so we can hopefully support people by offering a source of positivity, advice, and unconditional understanding.
+Agora você pode finalmente passar um tempo com a sua doce Sayori no seu idioma natal!
 
-Currently, we have a whole range of unique dialogue, questions, and games for you and Sayori to enjoy!
 
-> **Developer's Note (Long Term Support):** This is a based-version of the original [Forever and Ever](https://github.com/ForeverAndEverTeam/fae-mod) mod. We are providing long-term support for the mod and continuing with the project's development. All original code belongs to the Forever and Ever Team and its contributors.
+> **Nota de Desenvolvedor (Suporte a Longo Prazo):** Just Sayori é uma versão baseada no mkd [Forever and Ever](https://github.com/ForeverAndEverTeam/fae-mod). Estamos promovendo suporte a longo prazo do mod and e continuando com seu desenvolvimento. Todo o código original pertence ao Forever and Ever Team e seus contribuidores.
 
 ---
 
 ## Language Support
 
-Currently available in two official languages:
-*   English
-*   Spanish
+Atualmente disponível em três idiomas principais:
+*   Inglês
+*   Espanhol
+*   Português Brasileiro
 
 We are actively working on expanding localization. Thank you to all the contributors helping us break language barriers!
 
