@@ -7,8 +7,9 @@
 
 _Just Sayori_ agora tem tradução para Português Brasileiro!
 
-Agora você pode finalmente passar um tempo com a sua doce Sayori no seu idioma natal!
+> [!note]
 
+Agora você pode finalmente passar um tempo com a sua doce Sayori no seu idioma natal!
 
 > **Nota de Desenvolvedor (Suporte a Longo Prazo):** Just Sayori é uma versão baseada no mkd [Forever and Ever](https://github.com/ForeverAndEverTeam/fae-mod). Estamos promovendo suporte a longo prazo do mod and e continuando com seu desenvolvimento. Todo o código original pertence ao Forever and Ever Team e seus contribuidores.
 
@@ -21,7 +22,7 @@ Atualmente disponível em três idiomas principais:
 *   Espanhol
 *   Português Brasileiro
 
-We are actively working on expanding localization. Thank you to all the contributors helping us break language barriers!
+Estamos ativamente traduzindo o mod para outros idiomas (por exemplo, no caso deste fork). Obrigado a todos que contribuem para a quebra das barreiras de idioma!
 
 ---
 
