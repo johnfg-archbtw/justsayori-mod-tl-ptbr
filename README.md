@@ -37,9 +37,7 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ## Guia de Instalação
 
-*Use these instructions if you are installing Just Sayori for the first time.*
-
-**Please read the instructions carefully before proceeding.**
+**Por favor leia as instruções antes de proceder.**
 
 ### PC
 
@@ -53,8 +51,10 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ### Android
 
-1. Download the latest compiled APK port [here](https://link.traduction-club.live/7I8jSN).
-2. Execute the APK file on your device and follow the standard Android installation prompts (ensure installation from unknown sources is permitted if required).
+1. Caso não instalado, instale o aplicativo An Monika After Story Launcher ou MINE, ambos por just6889 (meu amooooooor 😍😍😍😍😍😍😍).
+2. Se instalou MASL, entre na sessão MINE após instalar os arquivos requeridos pelo aplicativo, se instalou MINE, entre na única sessão MINE disponível.
+3. Clique no botão "Iniciar", e em "MINE". Clique em "Adicionar novo jogo", depois em "Mod de DDLC".
+4. 
 3. Launch the application and enjoy.
 
 ---
@@ -65,9 +65,9 @@ To report system bugs, request technical support, or provide feedback regarding 
 
 ---
 
-## Credits & Acknowledgements
+## Créditos E Menções
 
-###  Maintenance & Development
+###  Atual Manutenção & Desenvolvimento
 _O time atualmente deixando os pensamentos felizes fluindo!_
 
 *   **Just (meu queridoooooo):** Project Lead, Líder de Desenvolvedor
