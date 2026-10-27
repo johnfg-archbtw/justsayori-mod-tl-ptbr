@@ -29,9 +29,9 @@ Estamos ativamente traduzindo o mod para outros idiomas (por exemplo, no caso de
 
 ## Compatibility Notice
 
-This modification is designed exclusively for use with a pristine copy of the original game by Team Salvato, available from the [official website](https://ddlc.moe).
+Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Team Salvato, disponível pelo [site oficial](https://ddlc.moe).
 
-**Warning:** _DDLC Plus (DDLC+) is not supported by this modification._
+**Aviso:** _DDLC Plus (DDLC+) não é suportado por este mod._
 
 ---
 
