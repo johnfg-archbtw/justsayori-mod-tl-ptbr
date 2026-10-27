@@ -7,7 +7,8 @@
 
 _Just Sayori_ agora tem tradução para Português Brasileiro!
 
-> [!note]
+> [!NOTE]
+> Este é um fork focado na tradução para o Português Brasileiro do mod Just Sayori. Caso queira acessar a página do mod original, acesse [Just Sayori](https://gitHub.com/New-Traduction-Club/justsayori-mod).
 
 Agora você pode finalmente passar um tempo com a sua doce Sayori no seu idioma natal!
 
