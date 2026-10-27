@@ -59,27 +59,6 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ---
 
-## Update Guide
-
-*Use these instructions if you have an existing installation of Just Sayori.*
-
-### PC Update
-
-1. Close Just Sayori if it is currently running in the background.
-2. **Critical Step: Back up your persistent data files** to prevent potential save corruption.
-3. Download the latest release [here](https://github.com/Just3090/justsayori-mod/releases): select the ZIP file starting with `Just.Sayori`. **Do not download the source code.**
-4. Extract/unzip the new JS release archive.
-5. Copy all contents from the extracted directory to your existing DDLC installation folder. Overwrite all existing files when prompted.
-6. Launch `JustSayori.exe` (Windows) or `JustSayori.sh` (Linux).
-
-### Android Update
-
-1. Download the latest APK port [here](https://link.traduction-club.live/7I8jSN).
-2. Execute the APK. When prompted, tap `Update` to overwrite the existing application data without losing your save state.
-3. Launch the application.
-
----
-
 ## Bugs & Feedback
 
 To report system bugs, request technical support, or provide feedback regarding the modification, please open a new issue ticket on our tracker [here](https://github.com/New-Traduction-Club/justsayori-mod/issues).
@@ -88,8 +67,8 @@ To report system bugs, request technical support, or provide feedback regarding 
 
 ## Credits & Acknowledgements
 
-### Current Maintenance & Development
-_The team currently keeping the happy thoughts flowing!_
+###  Maintenance & Development
+_O time atualmente deixando os pensamentos felizes fluindo!_
 
 *   **Just (meu queridoooooo):** Project Lead, Líder de Desenvolvedor
 *   **Fran:** Tradutor para Espanhol, Escritor
@@ -109,7 +88,7 @@ _Thank you for your foundational work in bringing FaE to life._
 ### Special Thanks
 
 *   **DJMayDay:** Black hoodie outfit (commissioned by Z)
-*   **[Monika After Story Team](https://github.com/Monika-After-Story/MonikaModDev):** Adapted source code, weather assets, and ongoing support.
+*   **[Monika After Story Team](https://github.com/Monika-After-Story/MonikaModDev):** Código fonte adaptado, recursos de clima, and ongoing support.
 *   **[Just Natsuki Team](https://github.com/Just-Natsuki-Team/NatsukiModDev):** Adapted source code, weather assets, and ongoing support.
 *   **multimokia:** Night theme (_Slepyori_)
 *   **/r/DDLCMods:** Community support
