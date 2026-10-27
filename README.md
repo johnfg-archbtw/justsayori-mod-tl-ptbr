@@ -16,7 +16,7 @@ Agora você pode finalmente passar um tempo com a sua doce Sayori no seu idioma 
 
 ---
 
-## Language Support
+## Suporte a Idiomas
 
 Atualmente disponível em três idiomas principais:
 *   Inglês
@@ -27,7 +27,7 @@ Estamos ativamente traduzindo o mod para outros idiomas (por exemplo, no caso de
 
 ---
 
-## Compatibility Notice
+## Nota de Compatibilidade
 
 Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Team Salvato, disponível pelo [site oficial](https://ddlc.moe).
 
@@ -35,7 +35,7 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ---
 
-## Installation Guide
+## Guia de Instalação
 
 *Use these instructions if you are installing Just Sayori for the first time.*
 
@@ -43,23 +43,19 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ### PC
 
-1. Download a fresh, unmodified copy of DDLC from the [official site](https://ddlc.moe). **Do not use a Steam installation**, as it may cause directory pathing conflicts.
-2. Extract/unzip the DDLC archive into a dedicated directory.
-3. Download the latest release [here](https://github.com/New-Traduction-Club/justsayori-mod/releases): select the ZIP file starting with `Just.Sayori` (e.g., `Just.Sayori.1.0.zip`). **Do not download the source code**, as this will result in future update failures.
-4. Extract/unzip the downloaded JS modification archive.
-5. Copy the entire contents of the JS modification directory and paste them into the root DDLC folder. If prompted by your OS to replace files, select _Yes_ or _Replace All_.
-6. Navigate to the `game` folder within the DDLC directory and permanently delete the `scripts.rpa` file.
-7. Execute the application: Launch `JustSayori.exe` if operating on Windows, or `JustSayori.sh` if operating on a Linux distribution.
+1. Baixe uma cópia limpa e não modificada do jogo pelo [site oficial](https://ddlc.moe).
+2. Extraia o arquivo ZIP para uma pasta dedicada ao mod.
+3. Baixe a última versão do mod [aqui](https://github.com/johnfg-archbtw/justsayori-mod-tl-ptbr/releases): selecione o arquivo começando com `Just.Sayori` (ex. `Just.Sayori.1.1.2.zip`).
+4. Extraia o arquivo de mod do Just Sayori.
+5. Copie todos os conteúdos da pasta extraída do Just Sayori e cole-os na pasta inicial do DDLC. Se pedido pelo seu sistema para substituição de arquivos, selecione _Sim_ or _Substituir Todos_.
+6. Vá para a pasta `game` na pasta do DDLC e permanentemente delete o arquivo `scripts.rpa`.
+7. Execute o jogo: Rode `JustSayori.exe` se estiver em sistema Windows, ou `JustSayori.sh` se estiver em um sistema Linux.
 
 ### Android
 
 1. Download the latest compiled APK port [here](https://link.traduction-club.live/7I8jSN).
 2. Execute the APK file on your device and follow the standard Android installation prompts (ensure installation from unknown sources is permitted if required).
 3. Launch the application and enjoy.
-
-> We're making a new version for Android, check progress [here](https://github.com/New-Traduction-Club/justsayori-mod-android-port)
->
-> Pre-register on Play Store: https://play.google.com/store/apps/details?id=com.z.tdclub.jsl
 
 ---
 
@@ -95,10 +91,11 @@ To report system bugs, request technical support, or provide feedback regarding 
 ### Current Maintenance & Development
 _The team currently keeping the happy thoughts flowing!_
 
-*   **Just:** Project Lead, Lead Developer
-*   **Fran:** Spanish Translator, Writer
-*   **Nico:** Spanish Translator
-*   _Comming soon..._
+*   **Just (meu queridoooooo):** Project Lead, Líder de Desenvolvedor
+*   **Fran:** Tradutor para Espanhol, Escritor
+*   **Nico:** Tradutor para Espanhol
+*   **João (eu mesmo):** Tradutor para Português Brasileiro
+*   _Em breve..._
 
 ### Original Creators (Forever & Ever Team)
 _Thank you for your foundational work in bringing FaE to life._
