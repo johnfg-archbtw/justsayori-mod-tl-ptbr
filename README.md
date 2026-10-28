@@ -56,9 +56,10 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 3. Se instalou MASL, entre na sessão MINE após instalar os arquivos requeridos pelo aplicativo, se instalou MINE, entre na única sessão MINE disponível.
 4. Clique no botão "Iniciar", e em "MINE". Clique em "Adicionar novo jogo", depois em "Mod de DDLC".
 5. Selecione ddlc-win.zip em seu dispositivo para o ZIP do jogo original, e o arquivo do mod, como pedidos pelo aplicativo, e aperte em "Instalar mod".
-6. Após a instalação terminar, volte para a janela principal do MINE, e aperte em "Jogar" onde estiver o Just Sayori.
-7. O aplicativo pedirá que uma versão do Ren'Py seja selecionada para executar o jogo, selecione a versão 8.4.1, depois aperte em "Selecionar".
-8. Aproveite a sua doce Sayori finalmente traduzida em seu celular.
+6. Vá para a pasta do mod através do gerenciador de arquivos do aplicativo, e remova o arquivo 'game/scripts.rpa'.
+7. Após a instalação terminar, volte para a janela principal do MINE, e aperte em "Jogar" onde estiver o Just Sayori.
+8. O aplicativo pedirá que uma versão do Ren'Py seja selecionada para executar o jogo, selecione a versão 8.4.1, depois aperte em "Selecionar".
+9. Aproveite o jogo.
 
 ---
 
@@ -106,7 +107,7 @@ _Obrigado pelo seu trabalho fundador em trazer FaE à vida._
 Interessado em fazer parte de uma comunidade em crescimento de fãs da Sayori, ou só quer conversar com o time de desenvolvimento? Considere se juntar a nós no [Discord](https://discord.gg/y4cqrJahaF) — adoraríamos te ver lá!
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Plataformas com Suporte">
+    <img src="https://img.shields.io/badge/Platforma-PC%20%7C%20Android-blue" alt="Plataformas com Suporte">
     <img src="https://img.shields.io/badge/Idiomas-Inglês%20%7C%20Espanhol%20%7C%20Português-success" alt="Idiomas Suportados">
     <img src="https://img.shields.io/badge/Status-Desenvolvimento%20Ativo-brightgreen" alt="Status do Projeto">
 </p>
