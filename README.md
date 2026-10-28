@@ -62,9 +62,9 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ---
 
-## Bugs & Feedback
+## Bugs e Feedback
 
-To report system bugs, request technical support, or provide feedback regarding the modification, please open a new issue ticket on our tracker [here](https://github.com/New-Traduction-Club/justsayori-mod/issues).
+Para reports bugs de sistema, solicitar suporte técnico, ou dar feedback sobre o mod, por favor abra um ticket em Issues [aqui](https://github.com/New-Traduction-Club/justsayori-mod/issues).
 
 ---
 
