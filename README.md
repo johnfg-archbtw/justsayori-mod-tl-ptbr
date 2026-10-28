@@ -76,25 +76,25 @@ _O time atualmente deixando os pensamentos felizes fluindo!_
 *   **João (eu mesmo):** Tradutor para Português Brasileiro
 *   _Em breve..._
 
-### Original Creators (Forever & Ever Team)
-_Thank you for your foundational work in bringing FaE to life._
+### Criadores Originais (Forever & Ever Team)
+_Obrigado pelo seu trabalho fundador em trazer FaE à vida._
 
-*   **Orcaramelo:** Project Lead, Lead Artist, Writer
-*   **Nathan:** Lead Developer, Writer
-*   **Emilia/Monika (EYLO):** Writer
-*   **AlexanDDOS:** Project Lead, Lead Developer, Writer, Tester
-*   _And all previous contributors, writers, artists, and testers involved in the FaE project._
+*   **Orcaramelo:** Líder do Projeto, Artista Líder, Escrito
+*   **Nathan:** Desenvolvedor Líder, Escritor
+*   **Emilia/Monika (EYLO):** Escritor
+*   **AlexanDDOS:** Líder do Projeto, Desenvolvedor Líder, Escritor, Tester
+*   _E todos os anteriores contribuidores, escritores, artistaa, e testers envolvidos no projeto FaE._
 
-### Special Thanks
+### Agradecimentos Especiais
 
-*   **DJMayDay:** Black hoodie outfit (commissioned by Z)
-*   **[Monika After Story Team](https://github.com/Monika-After-Story/MonikaModDev):** Código fonte adaptado, recursos de clima, and ongoing support.
-*   **[Just Natsuki Team](https://github.com/Just-Natsuki-Team/NatsukiModDev):** Adapted source code, weather assets, and ongoing support.
-*   **multimokia:** Night theme (_Slepyori_)
-*   **/r/DDLCMods:** Community support
-*   **Pipe98x & sirrealist2:** SFX contributions
+*   **DJMayDay:** Roupa de casaco preto (commissionado por Z)
+*   **[Monika After Story Team](https://github.com/Monika-After-Story/MonikaModDev):** Código fonte adaptado, recursos de clima, e suporte contínuo.
+*   **[Just Natsuki Team](https://github.com/Just-Natsuki-Team/NatsukiModDev):** Código fonte adaptado, recursos de clima, e suporte contínuo.
+*   **multimokia:** Tema noturno (_Slepyori_)
+*   **/r/DDLCMods:** Suporte da comunidade
+*   **Pipe98x & sirrealist2:** Contribuições para SFX
 *   **Fj0rd_:** Prerelease Sayori spritework
-*   **Our community:** For your ongoing patience and support.
+*   **Nossa comunidade:** Pela sua paciência e contribuições.
 
 ---
 
