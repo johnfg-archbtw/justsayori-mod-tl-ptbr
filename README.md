@@ -47,11 +47,12 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 4. Extraia o arquivo de mod do Just Sayori.
 5. Copie todos os conteúdos da pasta extraída do Just Sayori e cole-os na pasta inicial do DDLC. Se pedido pelo seu sistema para substituição de arquivos, selecione _Sim_ or _Substituir Todos_.
 6. Vá para a pasta `game` na pasta do DDLC e permanentemente delete o arquivo `scripts.rpa`.
-7. Execute o jogo: Rode `JustSayori.exe` se estiver em sistema Windows, ou `JustSayori.sh` se estiver em um sistema Linux.
+7. Execute o jogo: Execute `JustSayori.exe` se estiver em sistema Windows, ou `JustSayori.sh` se estiver em um sistema Linux.
 
 ### Android
 
 1. Caso não instalado, instale o aplicativo An Monika After Story Launcher ou MINE, ambos por just6889 (meu amooooooor 😍😍😍😍😍😍😍).
+2. Se já não tiver baixado, baixe o arquivo do DDLC original, disponível pelo [site oficial](https://ddlc.moe), e o arquivo deste mod, disponível em [Releases](https://github.com/johnfg-archbtw/justsayori-tl-ptbr/releases) (ex. Just.Sayori.1.1.2.zip).
 2. Se instalou MASL, entre na sessão MINE após instalar os arquivos requeridos pelo aplicativo, se instalou MINE, entre na única sessão MINE disponível.
 3. Clique no botão "Iniciar", e em "MINE". Clique em "Adicionar novo jogo", depois em "Mod de DDLC".
 4. 
