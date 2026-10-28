@@ -103,7 +103,7 @@ _Obrigado pelo seu trabalho fundador em trazer FaE à vida._
 Interested in taking part in a growing community of Sayori fans, or just want to chat with the development team? Consider joining us on [Discord](https://discord.gg/y4cqrJahaF) — we'd love to see you there!
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Supported Platforms">
-    <img src="https://img.shields.io/badge/Languages-English%20%7C%20Spanish-success" alt="Supported Languages">
+    <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Plataformas com Suporte">
+    <img src="https://img.shields.io/badge/Languages-Inglês%20%7C%20Spanish-success" alt="Idiomas Suportados">
     <img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen" alt="Project Status">
 </p>
