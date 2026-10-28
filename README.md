@@ -104,6 +104,6 @@ Interested in taking part in a growing community of Sayori fans, or just want to
 
 <p align="center">
     <img src="https://img.shields.io/badge/Platform-PC%20%7C%20Android-blue" alt="Plataformas com Suporte">
-    <img src="https://img.shields.io/badge/Languages-Inglês%20%7C%20Spanish-success" alt="Idiomas Suportados">
+    <img src="https://img.shields.io/badge/Idiomas-Inglês%20%7C%20Espanhol%20%7C%20Português-success" alt="Idiomas Suportados">
     <img src="https://img.shields.io/badge/Status-Active%20Development-brightgreen" alt="Project Status">
 </p>
