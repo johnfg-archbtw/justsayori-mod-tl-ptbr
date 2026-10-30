@@ -4,7 +4,7 @@ translate ptbr strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new ""
+    new "Autovoz desativado."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
@@ -12,295 +12,295 @@ translate ptbr strings:
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new ""
+    new "Autovoz ativado."
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new ""
+    new "barra"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new ""
+    new "selecionado"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new ""
+    new "viewport"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new ""
+    new "scroll horizontal"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new ""
+    new "scroll vertical"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new ""
+    new "ativar"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new ""
+    new "desativar"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new ""
+    new "aumentar"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new ""
+    new "diminuir"
 
     # renpy/common/00accessibility.rpy:122
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new ""
+    new "Menu de Acessibilidade. Use setas para cima e para baixo para navegar, e Enter para ativar botões e barras."
 
     # renpy/common/00accessibility.rpy:141
     old "Font Override"
-    new ""
+    new "Substituição de Fonte"
 
     # renpy/common/00accessibility.rpy:145
     old "Default"
-    new ""
+    new "Padrão"
 
     # renpy/common/00accessibility.rpy:149
     old "DejaVu Sans"
-    new ""
+    new "DejaVu Sans"
 
     # renpy/common/00accessibility.rpy:153
     old "Opendyslexic"
-    new ""
+    new "Opendyslexic"
 
     # renpy/common/00accessibility.rpy:159
     old "Text Size Scaling"
-    new ""
+    new "Dimensionamento do Tamanho de Texto"
 
     # renpy/common/00accessibility.rpy:165
     old "Reset"
-    new ""
+    new "Resetar"
 
     # renpy/common/00accessibility.rpy:171
     old "Line Spacing Scaling"
-    new ""
+    new "Dimensionamento do Espaçamento de Linhas"
 
     # renpy/common/00accessibility.rpy:183
     old "High Contrast Text"
-    new ""
+    new "Texto de Alto Contraste"
 
     # renpy/common/00accessibility.rpy:185
     old "Enable"
-    new ""
+    new "Ativar"
 
     # renpy/common/00accessibility.rpy:189
     old "Disable"
-    new ""
+    new "Desativar"
 
     # renpy/common/00accessibility.rpy:196
     old "Self-Voicing"
-    new ""
+    new "Autovoz"
 
     # renpy/common/00accessibility.rpy:199
     old "Self-voicing support is limited when using a touch screen."
-    new ""
+    new "Suporte a autovoz é limitado quando usar touch screen."
 
     # renpy/common/00accessibility.rpy:203
     old "Off"
-    new ""
+    new "Off"
 
     # renpy/common/00accessibility.rpy:207
     old "Text-to-speech"
-    new ""
+    new "Texto para fala"
 
     # renpy/common/00accessibility.rpy:211
     old "Clipboard"
-    new ""
+    new "Área de transferência"
 
     # renpy/common/00accessibility.rpy:215
     old "Debug"
-    new ""
+    new "Debug"
 
     # renpy/common/00accessibility.rpy:221
     old "Voice Volume"
-    new ""
+    new "Volume da Voz"
 
     # renpy/common/00accessibility.rpy:229
     old "Self-Voicing Volume Drop"
-    new ""
+    new "Redução de Volume do Autovoz"
 
     # renpy/common/00accessibility.rpy:238
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new ""
+    new "As opções neste menu são intencionadas para melhorar acessibilidade. Elas talvez não funcionem com todos os jogos, e algumas combinações de opções podem tornar o jogo injogável. Isso não é um problema com o jogo ou com a engine. Para os melhores resultados quando mudar fontres, tente deixar o tamanho do texto o mesmo como originalmente era."
 
     # renpy/common/00accessibility.rpy:243
     old "Return"
-    new ""
+    new "Retornar"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new ""
+    new "{#weekday}Segunda"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new ""
+    new "{#weekday}Terça"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new ""
+    new "{#weekday}Quarta"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new ""
+    new "{#weekday}Quinta"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new ""
+    new "{#weekday}Sexta"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new ""
+    new "{#weekday}Sábado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new ""
+    new "{#weekday}Domingo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new ""
+    new "{#weelday_short}Seg"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new ""
+    new "{#weekday_short}Ter"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new ""
+    new "{#weekday_short}Qua"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new ""
+    new "{#weekday_short}Qui"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new ""
+    new "{#weekday_short}Sex"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new ""
+    new "{#weekday_short}Sáb"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new ""
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new ""
+    new "{#month}Janeiro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new ""
+    new "{#month}Fevereiro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new ""
+    new "{#month}Março"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new ""
+    new "{#month}Abril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new ""
+    new "{#month}Maio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new ""
+    new "{#month}Junho"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new ""
+    new "{#month}Julho"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new ""
+    new "{#month}Agosto"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new ""
+    new "{#month}Setembro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new ""
+    new "{#month}Outubro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new ""
+    new "{#month}Novembro"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new ""
+    new "{#month}Dezembro"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new ""
+    new "{#month_short}Jan"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new ""
+    new "{#month_short}Fev"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new ""
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new ""
+    new "{#month_short}Abr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new ""
+    new "{#month_short}Mai"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new ""
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new ""
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new ""
+    new "{#month_short}Ago"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new ""
+    new "{#month_short}Set"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new ""
+    new "{#month_short}Out"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new ""
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new ""
+    new "{#month_short}Dez"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
-    new ""
+    new "%b %d, %H:%M"
 
     # renpy/common/00action_file.rpy:395
     old "Save slot %s: [text]"
-    new ""
+    new "Salvar slot %s: [text]"
 
     # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
-    new ""
+    new "Carregar slot %s: [text]"
 
     # renpy/common/00action_file.rpy:534
     old "Delete slot [text]"
-    new ""
+    new "Deletar slot [text]"
 
     # renpy/common/00action_file.rpy:613
     old "File page auto"

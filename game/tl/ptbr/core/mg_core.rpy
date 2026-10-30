@@ -4,17 +4,17 @@ translate ptbr strings:
 
     # game/core/mg_core.rpy:199
     old "No minigames registered."
-    new ""
+    new "Nenhum minigame registrado."
 
     # game/core/mg_core.rpy:212
     old "Ready to play!"
-    new ""
+    new "Pronto para jogar!"
 
     # game/core/mg_core.rpy:217
     old "Select a game"
-    new ""
+    new "Selecione um jogo"
 
     # game/core/mg_core.rpy:237
     old "Tic Tac Toe"
-    new ""
+    new "Jogo Da Velha"
 

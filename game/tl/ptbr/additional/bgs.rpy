@@ -4,9 +4,9 @@ translate ptbr strings:
 
     # game/additional/bgs.rpy:465
     old "Ready to change!"
-    new ""
+    new "Pronto para mudar!"
 
     # game/additional/bgs.rpy:473
     old "Select a background"
-    new ""
+    new "Selecione um background"
 

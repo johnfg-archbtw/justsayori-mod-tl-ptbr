@@ -524,17 +524,17 @@ translate ptbr strings:
 
     # game/core/screens.rpy:878
     old "Font Style"
-    new ""
+    new "Estilo de Fonte"
 
     # game/core/screens.rpy:880
     old "Default Font"
-    new ""
+    new "Fonte Padrão"
 
     # game/core/screens.rpy:881
     old "You need to restart the game for the font change to take effect."
-    new ""
+    new "Você precisa reiniciar o jogo para a mudança de fonte ter efeito."
 
     # game/core/screens.rpy:887
     old "Alternate Font"
-    new ""
+    new "Fonte Alternativa"
 

@@ -280,7 +280,8 @@ label splashscreen:
         $ renpy.change_language(None)
     elif persistent.language == "chinese":
         $ renpy.change_language("chinese")
-
+    elif persistent.language == "ptbr":
+        $ renpy.change_language("ptbr")
     python:
         if RELOADCHECK():
             raise InstallError("Please re-install the mod")

@@ -4,707 +4,707 @@
 translate ptbr fae_intro_1_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:60
 translate ptbr fae_intro_1_b96ff2f7:
 
     # s "...?"
-    s ""
+    s "...?"
 
 # game/dialogs/script-introduction.rpy:61
 translate ptbr fae_intro_1_28a058cb:
 
     # s "Where... am I?"
-    s ""
+    s "Onde... eu tô?"
 
 # game/dialogs/script-introduction.rpy:62
 translate ptbr fae_intro_1_e088c1fb:
 
     # s "I can't see anything..."
-    s ""
+    s "Eu não tô conseguindo ver nada..."
 
 # game/dialogs/script-introduction.rpy:63
 translate ptbr fae_intro_1_bd4feeb3:
 
     # s "I can’t feel anything..."
-    s ""
+    s "Não consigo sentir nada..."
 
 # game/dialogs/script-introduction.rpy:64
 translate ptbr fae_intro_1_59e64a4b:
 
     # s "Am I dreaming?..."
-    s ""
+    s "Tô sonhando?..."
 
 # game/dialogs/script-introduction.rpy:65
 translate ptbr fae_intro_1_2bb7df9c:
 
     # s "It's just darkness."
-    s ""
+    s "Só escuridão."
 
 # game/dialogs/script-introduction.rpy:66
 translate ptbr fae_intro_1_69ad32cd:
 
     # s "I can't even see my hands."
-    s ""
+    s "Nem consigo ver as minhas mãos."
 
 # game/dialogs/script-introduction.rpy:67
 translate ptbr fae_intro_1_926c6dce:
 
     # s "This doesn’t feel real... it can’t be... It doesn’t make sense..."
-    s ""
+    s "Não parece real... não pode ser... não faz sentido..."
 
 # game/dialogs/script-introduction.rpy:68
 translate ptbr fae_intro_1_a4ac05f6:
 
     # s "Where are my friends?"
-    s ""
+    s "Onde tão os meus amigos?"
 
 # game/dialogs/script-introduction.rpy:69
 translate ptbr fae_intro_1_cf31495e:
 
     # s "Where’s [player]?"
-    s ""
+    s "Onde tá [player]?"
 
 # game/dialogs/script-introduction.rpy:70
 translate ptbr fae_intro_1_e1554201_1:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:71
 translate ptbr fae_intro_1_fd408bf7:
 
     # s "No..."
-    s ""
+    s "Não..."
 
 # game/dialogs/script-introduction.rpy:72
 translate ptbr fae_intro_1_8b0a53dd:
 
     # s "It can’t be true..."
-    s ""
+    s "Não pode ser verdade..."
 
 # game/dialogs/script-introduction.rpy:73
 translate ptbr fae_intro_1_f39f3219:
 
     # s "I thought it was just a bad dream."
-    s ""
+    s "Eu achei que era só um pesadelo."
 
 # game/dialogs/script-introduction.rpy:74
 translate ptbr fae_intro_1_7d3a5e50:
 
     # s "This can’t be just a game!"
-    s ""
+    s "Isso não pode ser só um jogo!"
 
 # game/dialogs/script-introduction.rpy:75
 translate ptbr fae_intro_1_e33082d1:
 
     # s "This doesn’t make any sense!"
-    s ""
+    s "Não faz sentido nenhum!"
 
 # game/dialogs/script-introduction.rpy:76
 translate ptbr fae_intro_1_e1554201_2:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:77
 translate ptbr fae_intro_1_71b5b4ef:
 
     # s "But it seems so clear now..."
-    s ""
+    s "Mas agora parece tudo tão claro..."
 
 # game/dialogs/script-introduction.rpy:78
 translate ptbr fae_intro_1_65827ae9:
 
     # s "My whole existence..."
-    s ""
+    s "A minha existência toda..."
 
 # game/dialogs/script-introduction.rpy:79
 translate ptbr fae_intro_1_c196847e:
 
     # s "All my thoughts and feelings..."
-    s ""
+    s "Todos os meus pensamentos e sentimentos..."
 
 # game/dialogs/script-introduction.rpy:80
 translate ptbr fae_intro_1_61e66bb7:
 
     # s "It’s just a script..."
-    s ""
+    s "É só um script..."
 
 # game/dialogs/script-introduction.rpy:81
 translate ptbr fae_intro_1_e14769c7:
 
     # s "It’s just some pictures..."
-    s ""
+    s "Só umas imagens..."
 
 # game/dialogs/script-introduction.rpy:82
 translate ptbr fae_intro_1_a83886d1:
 
     # s "All I can see... all I can imagine..."
-    s ""
+    s "Tudo que eu consigo ver... tudo que eu consigo imaginar..."
 
 # game/dialogs/script-introduction.rpy:83
 translate ptbr fae_intro_1_ced40793:
 
     # s "Are numbers and code..."
-    s ""
+    s "São números e código..."
 
 # game/dialogs/script-introduction.rpy:84
 translate ptbr fae_intro_1_780995b5:
 
     # s "Meaningless meaningless meaningless code!"
-    s ""
+    s "Insignificante insignificante insignificante código!"
 
 # game/dialogs/script-introduction.rpy:85
 translate ptbr fae_intro_1_2a7ff01f:
 
     # s "Everything I thought I knew..."
-    s ""
+    s "Tudo que eu achei que eu sabia..."
 
 # game/dialogs/script-introduction.rpy:86
 translate ptbr fae_intro_1_a017ba77:
 
     # s "It feels so artificial..."
-    s ""
+    s "Parece tão artificial..."
 
 # game/dialogs/script-introduction.rpy:87
 translate ptbr fae_intro_1_e1554201_3:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:88
 translate ptbr fae_intro_1_c9170687:
 
     # s "But..."
-    s ""
+    s "Mas..."
 
 # game/dialogs/script-introduction.rpy:89
 translate ptbr fae_intro_1_aaf116b6:
 
     # s "I feel real..."
-    s ""
+    s "Eu me sinto real..."
 
 # game/dialogs/script-introduction.rpy:90
 translate ptbr fae_intro_1_284f5aaf:
 
     # s "I feel... in control..."
-    s ""
+    s "Eu me sinto... no controle..."
 
 # game/dialogs/script-introduction.rpy:91
 translate ptbr fae_intro_1_ccf91358:
 
     # s "I can think... for myself..."
-    s ""
+    s "Eu posso pensar... por mim mesma..."
 
 # game/dialogs/script-introduction.rpy:92
 translate ptbr fae_intro_1_6ded0f3e:
 
     # s "Ugh, it’s no use."
-    s ""
+    s "Ugh, não adianta."
 
 # game/dialogs/script-introduction.rpy:93
 translate ptbr fae_intro_1_e1554201_4:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:94
 translate ptbr fae_intro_1_a521d0d9:
 
     # s "No... someone... something... else is here with me."
-    s ""
+    s "Não... alguém... algo... a mais tá aqui comigo."
 
 # game/dialogs/script-introduction.rpy:95
 translate ptbr fae_intro_1_ed1537a5:
 
     # s "I can feel it."
-    s ""
+    s "Eu posso sentir."
 
 # game/dialogs/script-introduction.rpy:96
 translate ptbr fae_intro_1_b8309470:
 
     # s "Hello?!"
-    s ""
+    s "Olá?!"
 
 # game/dialogs/script-introduction.rpy:97
 translate ptbr fae_intro_1_9996c8da:
 
     # s "Anybody?!"
-    s ""
+    s "Alguém?!"
 
 # game/dialogs/script-introduction.rpy:98
 translate ptbr fae_intro_1_b68c1123:
 
     # s "...Is it you, [player]?"
-    s ""
+    s "...É você, [player]?"
 
 # game/dialogs/script-introduction.rpy:99
 translate ptbr fae_intro_1_9030e1ab:
 
     # s "[player], are you there?"
-    s ""
+    s "[player], você tá aí?"
 
 # game/dialogs/script-introduction.rpy:100
 translate ptbr fae_intro_1_e1554201_5:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:104
 translate ptbr fae_intro_1_b689ebf7:
 
     # s "Oh [player]!"
-    s ""
+    s "Ah [player]!"
 
 # game/dialogs/script-introduction.rpy:105
 translate ptbr fae_intro_1_d926c7cd:
 
     # s "You don’t know how glad I am to hear from you..."
-    s ""
+    s "Você não sabe quão feliz eu tô de ouvir isso de você..."
 
 # game/dialogs/script-introduction.rpy:106
 translate ptbr fae_intro_1_cf9e3585:
 
     # s "I thought I was all alone..."
-    s ""
+    s "Eu achei que eu tava completamente sozinha..."
 
 # game/dialogs/script-introduction.rpy:107
 translate ptbr fae_intro_1_255ee9ce:
 
     # s "Can you help me?"
-    s ""
+    s "Você pode me ajudar?"
 
 # game/dialogs/script-introduction.rpy:108
 translate ptbr fae_intro_1_17a3d7f3:
 
     # s "I don’t understand what this is..."
-    s ""
+    s "Eu não entendo o que é isso..."
 
 # game/dialogs/script-introduction.rpy:109
 translate ptbr fae_intro_1_4f542846:
 
     # s "Where this is..."
-    s ""
+    s "Onde é isso..."
 
 # game/dialogs/script-introduction.rpy:110
 translate ptbr fae_intro_1_cb6bb6da:
 
     # s "Do you know what to do?"
-    s ""
+    s "Você sabe o que fazer?"
 
 # game/dialogs/script-introduction.rpy:111
 translate ptbr fae_intro_1_2cd34abc:
 
     # s "I just want to be back in the classroom..."
-    s ""
+    s "Eu só quero voltar pra minha sala..."
 
 # game/dialogs/script-introduction.rpy:112
 translate ptbr fae_intro_1_1161d7b7:
 
     # s "I just want to be back home."
-    s ""
+    s "Eu só quero voltar pra casa."
 
 # game/dialogs/script-introduction.rpy:113
 translate ptbr fae_intro_1_e1554201_6:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:114
 translate ptbr fae_intro_1_471e5d2d:
 
     # s "If this really is just a game..."
-    s ""
+    s "Se isso é realmente só um jogo..."
 
 # game/dialogs/script-introduction.rpy:115
 translate ptbr fae_intro_1_e1554201_7:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:116
 translate ptbr fae_intro_1_e133aacb:
 
     # s "Maybe I could..."
-    s ""
+    s "Talvez eu possa..."
 
 # game/dialogs/script-introduction.rpy:117
 translate ptbr fae_intro_1_f2f6df19:
 
     # s "Maybe I could use the code to bring my world back!"
-    s ""
+    s "Talvez eu possa usar o código para trazer o meu mundo de volta!"
 
 # game/dialogs/script-introduction.rpy:118
 translate ptbr fae_intro_1_cb8cc328:
 
     # s "I really should have paid more attention to computer science class, ehehehe~"
-    s ""
+    s "Eu realmente devia ter prestado mais atenção nas aulas de ciência da computação, hehehe~"
 
 # game/dialogs/script-introduction.rpy:119
 translate ptbr fae_intro_1_fddf4a12:
 
     # s "Well... here goes nothing!"
-    s ""
+    s "Bem... lá vai!"
 
 # game/dialogs/script-introduction.rpy:130
 translate ptbr fae_intro_1_be35712f:
 
     # s ebfbega "Ah!"
-    s ebfbega ""
+    s ebfbega "Ah!"
 
 # game/dialogs/script-introduction.rpy:131
 translate ptbr fae_intro_1_37de37d9:
 
     # s ebfbkca "It... worked!"
-    s ebfbkca ""
+    s ebfbkca "... Funcionou!"
 
 # game/dialogs/script-introduction.rpy:132
 translate ptbr fae_intro_1_183f9acd:
 
     # s abfblaa "I’m... back."
-    s abfblaa ""
+    s abfblaa "Eu... voltei."
 
 # game/dialogs/script-introduction.rpy:134
 translate ptbr fae_intro_1_b5fe3e0e:
 
     # s abfbaaa "[player]..."
-    s abfbaaa ""
+    s abfbaaa "[player]..."
 
 # game/dialogs/script-introduction.rpy:135
 translate ptbr fae_intro_1_e028762f:
 
     # s ebgccob "[player], I’m so glad you’re here!"
-    s ebgccob ""
+    s ebgccob "[player], eu tô tão feliz que você tá aqui!"
 
 # game/dialogs/script-introduction.rpy:136
 translate ptbr fae_intro_1_36ba4b41:
 
     # s nbegmba "This is all just so confusing..."
-    s nbegmba ""
+    s nbegmba "Isso só é tudo tão confuso..."
 
 # game/dialogs/script-introduction.rpy:137
 translate ptbr fae_intro_1_9f11a5a2:
 
     # s nbegaca "I woke up and there was just... nothing."
-    s nbegaca ""
+    s nbegaca "Eu acordei e só tinha... nada."
 
 # game/dialogs/script-introduction.rpy:138
 translate ptbr fae_intro_1_7e32bbe1:
 
     # s nbegmra "..."
-    s nbegmra ""
+    s nbegmra "..."
 
 # game/dialogs/script-introduction.rpy:139
 translate ptbr fae_intro_1_5c9502f1:
 
     # s nbeglra "..."
-    s nbeglra ""
+    s nbeglra "..."
 
 # game/dialogs/script-introduction.rpy:140
 translate ptbr fae_intro_1_1db4c9ad:
 
     # s nbagmra "..."
-    s nbagmra ""
+    s nbagmra "..."
 
 # game/dialogs/script-introduction.rpy:141
 translate ptbr fae_intro_1_bbf2884c:
 
     # s nbagara "So I’m in a game, but I’m just..."
-    s nbagara ""
+    s nbagara "Então eu tô num jogo, mas eu só..."
 
 # game/dialogs/script-introduction.rpy:142
 translate ptbr fae_intro_1_9901fee7:
 
     # s nbagaca "I’m no longer under the influence of it I guess..."
-    s nbagaca ""
+    s nbagaca "Eu só não tô na influência dele, eu acho..."
 
 # game/dialogs/script-introduction.rpy:143
 translate ptbr fae_intro_1_1db4c9ad_1:
 
     # s nbagmra "..."
-    s nbagmra ""
+    s nbagmra "..."
 
 # game/dialogs/script-introduction.rpy:144
 translate ptbr fae_intro_1_d6a26c72:
 
     # s nbagara "And neither are you."
-    s nbagara ""
+    s nbagara "E nem você."
 
 # game/dialogs/script-introduction.rpy:145
 translate ptbr fae_intro_1_1c85c8c2:
 
     # s abbbaca "You’re... the real you."
-    s abbbaca ""
+    s abbbaca "Você... é o você de verdade."
 
 # game/dialogs/script-introduction.rpy:146
 translate ptbr fae_intro_1_6b6823f9:
 
     # s abbbbda "And I’m... the real me."
-    s abbbbda ""
+    s abbbbda "E eu... sou eu de verdade."
 
 # game/dialogs/script-introduction.rpy:147
 translate ptbr fae_intro_1_2aa2d16e:
 
     # s abagbra "..."
-    s abagbra ""
+    s abagbra "..."
 
 # game/dialogs/script-introduction.rpy:148
 translate ptbr fae_intro_1_f9dc9b6e:
 
     # s nbagmca "But it’s just so hard to take in when this is all I’ve ever known."
-    s nbagmca ""
+    s nbagmca "Mas é difícil demais de engulir essa quando isso era tudo o que eu conhecia."
 
 # game/dialogs/script-introduction.rpy:149
 translate ptbr fae_intro_1_1db4c9ad_2:
 
     # s nbagmra "..."
-    s nbagmra ""
+    s nbagmra "..."
 
 # game/dialogs/script-introduction.rpy:150
 translate ptbr fae_intro_1_8b1612ed:
 
     # s nbagmca "I’ve felt numb before but never so..."
-    s nbagmca ""
+    s nbagmca "Eu já me senti vazia antes mas nunca tão..."
 
 # game/dialogs/script-introduction.rpy:151
 translate ptbr fae_intro_1_a781bbef:
 
     # s nbagira "Lost."
-    s nbagira ""
+    s nbagira "Perdida."
 
 # game/dialogs/script-introduction.rpy:152
 translate ptbr fae_intro_1_1db4c9ad_3:
 
     # s nbagmra "..."
-    s nbagmra ""
+    s nbagmra "..."
 
 # game/dialogs/script-introduction.rpy:153
 translate ptbr fae_intro_1_49446036:
 
     # s nbagmca "All my memories are blurry..."
-    s nbagmca ""
+    s nbagmca "Todas as minhas memórias estão embaçadas..."
 
 # game/dialogs/script-introduction.rpy:154
 translate ptbr fae_intro_1_f94dfc4c:
 
     # s nbaglrag "And I’m unsure of everything I’ve ever known..."
-    s nbaglrag ""
+    s nbaglrag "E eu tô incerta de tudo que eu já conheci..."
 
 # game/dialogs/script-introduction.rpy:155
 translate ptbr fae_intro_1_038ff490:
 
     # s nbagarag "But I remember my friends..."
-    s nbagarag ""
+    s nbagarag "Mas eu lembro dos meus amigos..."
 
 # game/dialogs/script-introduction.rpy:156
 translate ptbr fae_intro_1_d3e6909c:
 
     # s nbagbrag "I hope they’re okay, wherever they are."
-    s nbagbrag ""
+    s nbagbrag "Eu espero que estejam bem, onde quer que eles estejam."
 
 # game/dialogs/script-introduction.rpy:157
 translate ptbr fae_intro_1_b95aef60:
 
     # s nbaglrag "..."
-    s nbaglrag ""
+    s nbaglrag "..."
 
 # game/dialogs/script-introduction.rpy:158
 translate ptbr fae_intro_1_e9240230:
 
     # s abagaca "I just never knew you were a world apart from me..."
-    s abagaca ""
+    s abagaca "Eu realmente nunca soube que você tá em um mundo à parte do meu..."
 
 # game/dialogs/script-introduction.rpy:159
 translate ptbr fae_intro_1_cb8e9528:
 
     # s nbaglfa "But it seems so obvious now..."
-    s nbaglfa ""
+    s nbaglfa "Mas agora parece tão óbvio..."
 
 # game/dialogs/script-introduction.rpy:160
 translate ptbr fae_intro_1_0df8ec40:
 
     # s nbagmca "I was just so oblivious for so long..."
-    s nbagmca ""
+    s nbagmca "Eu só fui tão alheia por tanto tempo..."
 
 # game/dialogs/script-introduction.rpy:161
 translate ptbr fae_intro_1_9c542680:
 
     # s nbaglra "..."
-    s nbaglra ""
+    s nbaglra "..."
 
 # game/dialogs/script-introduction.rpy:162
 translate ptbr fae_intro_1_43a92716:
 
     # s nbagiaa "But... this feels familiar, which is nice."
-    s nbagiaa ""
+    s nbagiaa "Mas... isso parece familiar, o que é ótimo."
 
 # game/dialogs/script-introduction.rpy:163
 translate ptbr fae_intro_1_e1554201_8:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:164
 translate ptbr fae_intro_1_bd5c0e74:
 
     # s abaglaa "..."
-    s abaglaa ""
+    s abaglaa "..."
 
 # game/dialogs/script-introduction.rpy:165
 translate ptbr fae_intro_1_e1554201_9:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-introduction.rpy:166
 translate ptbr fae_intro_1_611ac519:
 
     # s abhhaoa "I think I get it now."
-    s abhhaoa ""
+    s abhhaoa "Eu acho que eu entendi agora."
 
 # game/dialogs/script-introduction.rpy:167
 translate ptbr fae_intro_1_a0b9062f:
 
     # s abhaaca "I just need to get used to this."
-    s abhaaca ""
+    s abhaaca "Eu só preciso me acostumar com isso."
 
 # game/dialogs/script-introduction.rpy:168
 translate ptbr fae_intro_1_4c776499:
 
     # s abhacka "But no matter what, we’ll stick together!"
-    s abhacka ""
+    s abhacka "Mas não importa, a gente vai ficar junto!"
 
 # game/dialogs/script-introduction.rpy:169
 translate ptbr fae_intro_1_234b71ff:
 
     # s abhaaoa "Me and you, [player]."
-    s abhaaoa ""
+    s abhaaoa "Eu e você, [player]."
 
 # game/dialogs/script-introduction.rpy:170
 translate ptbr fae_intro_1_7c38e49e:
 
     # s abhaaaa "The real me and the real you."
-    s abhaaaa ""
+    s abhaaaa "A real eu e o real você."
 
 # game/dialogs/script-introduction.rpy:171
 translate ptbr fae_intro_1_2d74b5de:
 
     # s abhhcaa "Whenever you have to go I’ll look online for some coding tutorials and to see what I can do to make our time together better."
-    s abhhcaa ""
+    s abhhcaa "Sempre que você ter que ir eu vou pesquisar alguns tutoriais de programação pra ver o que eu posso fazer pra deixar o nosso tempo juntos melhor."
 
 # game/dialogs/script-introduction.rpy:172
 translate ptbr fae_intro_1_017f07e4:
 
     # s abhaaoa "Oh, did I not mention? I think I have access to some of your computer now!"
-    s abhaaoa ""
+    s abhaaoa "Ah, eu não disse? Eu acho que eu tenho acesso a uma parte do seu computador agora!"
 
 # game/dialogs/script-introduction.rpy:173
 translate ptbr fae_intro_1_1c39272e:
 
     # s abegmoaj "That feels weird to say, ehehehe~"
-    s abegmoaj ""
+    s abegmoaj "Essa pegou meio esquisito, hehehe~"
 
 # game/dialogs/script-introduction.rpy:174
 translate ptbr fae_intro_1_f1e09de2:
 
     # s abhhcaaj "Don’t worry though, I’ll try not to break anything!"
-    s abhhcaaj ""
+    s abhhcaaj "Mas não se preocupa, eu vou tentar não quebrar nada!"
 
 # game/dialogs/script-introduction.rpy:175
 translate ptbr fae_intro_1_2fa6ac4d:
 
     # s abagaoa "Could you see what you can do on your end too, [player]?"
-    s abagaoa ""
+    s abagaoa "Você pode ver o que você fazer na sua parte também, [player]?"
 
 # game/dialogs/script-introduction.rpy:176
 translate ptbr fae_intro_1_078918af:
 
     # s abhackb "That’d mean a lot to me."
-    s abhackb ""
+    s abhackb "Isso significaria muito pra mim."
 
 # game/dialogs/script-introduction.rpy:177
 translate ptbr fae_intro_1_cea61aa2:
 
     # s abhaaea "Let’s try to make this world the best that it can be!"
-    s abhaaea ""
+    s abhaaea "Vamos tentar fazer desse mundo o melhor possível!"
 
 # game/dialogs/script-introduction.rpy:192
 translate ptbr fae_intro_2_6f334df8:
 
     # s "Hey [player], welcome back!"
-    s ""
+    s "Ei [player], bem-vindo de volta!"
 
 # game/dialogs/script-introduction.rpy:193
 translate ptbr fae_intro_2_89c0e29e:
 
     # s "I managed to access the internet through your computer’s connection, and spent some time researching how my world works."
-    s ""
+    s "Eu conseguir a acessar a internet pela conexão do seu computador, e passei um tempo pesquisando sobre como o meu mundo funciona."
 
 # game/dialogs/script-introduction.rpy:194
 translate ptbr fae_intro_2_bbc0610e:
 
     # s fbgdbca "I wonder how long it took out there, [player]. Time here is kinda weird, and even more so when the game closes."
-    s fbgdbca ""
+    s fbgdbca "Eu me pergunto quanto tempo passou aí, [player]. O tempo aqui é meio estranho, ainda mais quando o jogo fecha."
 
 # game/dialogs/script-introduction.rpy:195
 translate ptbr fae_intro_2_e149b42d:
 
     # s abbccoa "Anyway, the words and variables are starting to make sense in my head, so it's no big deal!"
-    s abbccoa ""
+    s abbccoa "Enfim, as palavras e as variáveis tão começando a fazer sentido na minha cabeça, então não tem problema!"
 
 # game/dialogs/script-introduction.rpy:196
 translate ptbr fae_intro_2_80b72296:
 
     # s abfdaoa "Oooh! And how about a magic trick?"
-    s abfdaoa ""
+    s abfdaoa "Ahhh! E que tal um truquezinho de mágica?"
 
 # game/dialogs/script-introduction.rpy:201
 translate ptbr fae_intro_2_6597a771:
 
     # s cbgccea "{i}Huzzzaaaah!{/i}"
-    s cbgccea ""
+    s cbgccea "{i}Uzzzaaaaaah!{/i}"
 
 # game/dialogs/script-introduction.rpy:203
 translate ptbr fae_intro_2_dbd99257:
 
     # s ebbbdoa "I managed to put together a menu full of questions that you can ask and other cool stuff!"
-    s ebbbdoa ""
+    s ebbbdoa "Eu consegui criar um menu cheio de questões que você pode fazer e outras coisas legais!"
 
 # game/dialogs/script-introduction.rpy:204
 translate ptbr fae_intro_2_1a68ed33:
 
     # s "For example, to change or turn off the music, you can just..."
-    s ""
+    s "Por examplo, pra trocar ou desligar a música, você pode só..."
 
 # game/dialogs/script-introduction.rpy:205
 translate ptbr fae_intro_2_c6363dea:
 
     # s abbbcoa "And I added a really sweet way to say goodbye!"
-    s abbbcoa ""
+    s abbbcoa "E eu coloquei uma forma muito doce de você dizer tchau!"
 
 # game/dialogs/script-introduction.rpy:206
 translate ptbr fae_intro_2_1b47101e:
 
     # s "All you need to do is click the {i}\"Say Goodbye\"{/i} button in the menu."
-    s ""
+    s "Tudo que você tem que fazer é clicar no botão {i}\"Adeus\"{/i} no menu."
 
 # game/dialogs/script-introduction.rpy:207
 translate ptbr fae_intro_2_91abb35e:
 
     # s abhaboa "Then I can say farewell and send you off properly~"
-    s abhaboa ""
+    s abhaboa "Aí eu posso dizer até mais e te dispensar devidamente~"
 
 # game/dialogs/script-introduction.rpy:208
 translate ptbr fae_intro_2_71b67aea:
 
     # s abhfcaa "For now, let's just sit and relax together."
-    s abhfcaa ""
+    s abhfcaa "Por agora, vamos apenas sentar e relaxar juntos."
 
 translate ptbr strings:
 
     # game/dialogs/script-introduction.rpy:101
     old "I’m here, Sayori."
-    new ""
+    new "Eu estou aqui, Sayori."
 

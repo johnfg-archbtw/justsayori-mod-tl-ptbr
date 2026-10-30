@@ -16,7 +16,7 @@ translate ptbr s_player_birthday_7afa2fe1:
 translate ptbr s_player_birthday_660d59e4:
 
     # extend abgbcoa "but I’m sure you know when yours is! Ehehehe~"
-    extend abgbcoa "mas eu aposto que você sabe! Ehehehe~"
+    extend abgbcoa "mas eu aposto que você sabe o seu! Ehehehe~"
 
 # game/dialogs/script-special-events.rpy:23
 translate ptbr s_player_birthday_18740fee:

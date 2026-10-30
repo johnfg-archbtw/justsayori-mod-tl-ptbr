@@ -41,25 +41,23 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ### PC
 
-1. Baixe uma cópia limpa e não modificada do jogo pelo [site oficial](https://ddlc.moe).
-2. Extraia o arquivo ZIP para uma pasta dedicada ao mod.
-3. Baixe a última versão do mod [aqui](https://github.com/johnfg-archbtw/justsayori-mod-tl-ptbr/releases): selecione o arquivo começando com `Just.Sayori` (ex. `Just.Sayori.1.1.2.zip`).
-4. Extraia o arquivo de mod do Just Sayori.
-5. Copie todos os conteúdos da pasta extraída do Just Sayori e cole-os na pasta inicial do DDLC. Se pedido pelo seu sistema para substituição de arquivos, selecione _Sim_ or _Substituir Todos_.
-6. Vá para a pasta `game` na pasta do DDLC e permanentemente delete o arquivo `scripts.rpa`.
-7. Execute o jogo: Execute `JustSayori.exe` se estiver em sistema Windows, ou `JustSayori.sh` se estiver em um sistema Linux.
+1. Baixe a última versão do mod [aqui](https://github.com/johnfg-archbtw/justsayori-mod-tl-ptbr/releases): selecione o arquivo começando com `JustSayori` e terminando com `pc` (ex. `JustSayori-PTBR-1.2.0-r1-pc.zip`).
+2. Extraia o arquivo de mod do Just Sayori.
+3. Execute o jogo: Execute `JustSayori.exe` se estiver em sistema Windows, ou `JustSayori.sh` se estiver em um sistema Linux.
 
 ### Android
 
-1. Caso não instalado, instale o aplicativo An Monika After Story Launcher ou MINE, ambos por just6889 (meu amooooooor 😍😍😍😍😍😍😍).
-2. Se já não tiver baixado, baixe o arquivo do DDLC original, disponível pelo [site oficial](https://ddlc.moe), e o arquivo deste mod, disponível em [Releases](https://github.com/johnfg-archbtw/justsayori-tl-ptbr/releases) (ex. Just.Sayori.1.1.2.zip).
+1. Caso não instalado, instale o aplicativo An Monika After Story Launcher ou MINE, ambos por just6889.
+2. Se já não tiver baixado, baixe o arquivo do DDLC original, disponível pelo [site oficial](https://ddlc.moe), e o arquivo deste mod, disponível em [Releases](https://github.com/johnfg-archbtw/justsayori-tl-ptbr/releases), terminando em `mine` (ex. JustSayori-PTBR-1.2.0-r1-mine.zip).
 3. Se instalou MASL, entre na sessão MINE após instalar os arquivos requeridos pelo aplicativo, se instalou MINE, entre na única sessão MINE disponível.
 4. Clique no botão "Iniciar", e em "MINE". Clique em "Adicionar novo jogo", depois em "Mod de DDLC".
-5. Selecione ddlc-win.zip em seu dispositivo para o ZIP do jogo original, e o arquivo do mod, como pedidos pelo aplicativo, e aperte em "Instalar mod".
+5. Selecione ddlc-win.zip em seu dispositivo para o ZIP do jogo original, e o arquivo do mod, como pedido pelo aplicativo, e aperte em "Instalar mod".
 6. Vá para a pasta do mod através do gerenciador de arquivos do aplicativo, e remova o arquivo 'game/scripts.rpa'.
 7. Após a instalação terminar, volte para a janela principal do MINE, e aperte em "Jogar" onde estiver o Just Sayori.
 8. O aplicativo pedirá que uma versão do Ren'Py seja selecionada para executar o jogo, selecione a versão 8.4.1, depois aperte em "Selecionar".
 9. Aproveite o jogo.
+
+Este ZIP terminando `mine` não contém as pastas `renpy` nem `lib` para executar jogos Ren'Py, já que o sistema MINE não utiliza essas pastas para executar os jogos, pois ele usa os binários do Ren'Py do próprio aplicativo, por isso é recomendado baixar o arquivo terminando em `mine` para economizar espaço; o terminando o `pc` tem essas pastas.
 
 ---
 
@@ -74,7 +72,7 @@ Para reports bugs de sistema, solicitar suporte técnico, ou dar feedback sobre 
 ###  Atual Manutenção & Desenvolvimento
 _O time atualmente deixando os pensamentos felizes fluindo!_
 
-*   **Just (meu queridoooooo):** Project Lead, Líder de Desenvolvedor
+*   **Just:** Project Lead, Líder de Desenvolvedor
 *   **Fran:** Tradutor para Espanhol, Escritor
 *   **Nico:** Tradutor para Espanhol
 *   **João (eu mesmo):** Tradutor para Português Brasileiro

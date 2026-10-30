@@ -3,70 +3,70 @@ init 1 python:
         author_s,
         title=_(""),
         text=_("""\
-Hi
-Not dead
-Taking a very long nap\n
--Sayori (alive)"""
+Oi
+Não morta
+Tirando uma soneca bem longa\n
+-Sayori (viva)"""
         )
     )
 
 
     ptbr_poem_sunshine = Poem(
         author_s,
-        title =_("Dear Sunshine"),
+        title =_("Querida Luz do Sol"),
         text = _("""\
-The way you glow through my blinds in the morning
-It makes me feel like you missed me.
-Kissing my forehead to help me out of bed.
-Making me rub the sleepy from my eyes.
-Are you asking me to come out and play?
-Are you trusting me to wish away a rainy day?
-I look above. The sky is blue.
-It's a secret, but I trust you too.
-If it wasn't for you, I could sleep forever.
-But I'm not mad.
-I want breakfast."""
+A forma que você brilha através das minhas cortinas de manhã
+Me faz sentir como se você estivesse com saudade de mim.
+Beijando minha testa para me ajudar a levantar da cama
+Fazendo eu esfregar o sono dos meus olhos.
+Você está me pedindo para sair e brincar?
+Está confiando em mim para desejar que um dia chuvoso não venha?
+Olho para cima. O céu está azul.
+É um segredo, mas confio em você também.
+Se não fosse por você, eu poderia dormir para sempre.
+Mas não estou brava.
+Eu quero café da manhã."""
         )
     )
 
 
     ptbr_poem_bottles = Poem(
         author_s,
-        title = _("Bottles"),
+        title = _("Garrafas"),
         text = _("""\
-I pop off my scalp like the lid of a cookie jar.
-It's the secret place where I keep all my dreams.
-Little balls of sunshine, all rubbing together like a bundle of kittens.
-I reach inside with my thumb and forefinger and pluck one out.
-It's warm and tingly.
-But there's no time to waste! I put it in a bottle to keep it safe.
-And I put the bottle on the shelf with all of the other bottles.
-Happy thoughts, happy thoughts, happy thoughts in bottles, all in a row.
-My collection makes me lots of friends.
-Each bottle a starlight to make amends.
-Sometimes my friend feels a certain way.
-Down comes a bottle to save the day.
-Night after night, more dreams.
-Friend after friend, more bottles.
-Deeper and deeper my fingers go.
-Like exploring a dark cave, discovering the secrets hiding in the nooks and crannies.
-Digging and digging.
-Scraping and scraping.
-I blow dust off my bottle caps.
-It doesn't feel like time elapsed.
-My empty shelf could use some more.
-My friends look through my locked front door.
-Finally, all done. I open up, and in come my friends.
-In they come, in such a hurry. Do they want my bottles that much?
-I frantically pull them from the shelf, one after the other.
-Holding them out to each and every friend.
-Each and every bottle.
-But every time I let one go, it shatters against the tile between my feet.
-Happy thoughts, happy thoughts, happy thoughts in shards, all over the floor.
-They were supposed to be for my friends, my friends who aren't smiling.
-They're all shouting, pleading. Something.
-But all I hear is echo, echo, echo, echo, echo
-Inside my head."""
+Eu arranco meu couro cabeludo, como a tampa de um jarro de biscoitos.
+É o lugar secreto onde guardo todos os meus sonhos.
+Pequenas bolas de raios solares, todas se esfregando juntas como um bando de gatinhos.
+Eu alcanço o interior com meu polegar e arranco uma delas.
+É quente e dá um formigamento.
+Mas não há tempo a perder! Coloquei em uma garrafa para mantê-la segura.
+E coloquei a garrafa na prateleira, com todas as outras garrafas.
+Pensamentos felizes, pensamentos felizes, pensamentos felizes em garrafas, todos em fileira.
+Minha coleção me traz muitos amigos.
+Cada garrafa é uma luz das estrelas para compensar.
+Às vezes, meu amigo se sente de um certo modo.
+E aparece uma garrafa para salvar o dia.
+Noite após noite, mais sonhos.
+Amigo após amigo, mais garrafas.
+Meus dedos vão cada vez mais fundo.
+Como se explorando uma caverna escura, descobrindo segredos nos cantos e fendas.
+Escavando e escavando.
+Arranhando e arranhando.
+Eu sopro a poeira das tampas de garrafa.
+Não parece que o tempo passou.
+Minha prateleira vazia poderia ter algumas mais.
+Meus amigos olham através da minha porta da frente trancada.
+Por fim, tudo está pronto. Eu abro e meus amigos entram.
+Eles entram, com tanta pressa. Eles realmente querem minhas garrafas tanto assim ?
+Eu freneticamente puxo elas das prateleiras, uma após a outra.
+Segurando elas para cada um dos amigos.
+Cada uma das garrafas.
+Mas cada vez que deixo uma ir, ela se quebra contra o azulejo entre meus pés.
+Pensamentos felizes, pensamentos felizes, pensamentos felizes em estilhaços, espalhados pelo chão.
+Elas deveriam ser para meus amigos, meus amigos que não estão sorrindo.
+Todos estão gritando, implorando. Alguma coisa.
+Mas tudo que eu escuto é eco, eco, eco, eco, eco.
+Dentro da minha cabeça."""
         )
     )
 
@@ -74,16 +74,16 @@ Inside my head."""
 
     ptbr_poem_flower = Poem(
         author_s,
-        title = _("The Last Flower"),
+        title = _("A Última Flor"),
         text=("""\
-Between my feet
-The last remaining flower beckons me.
-I twist the stem, freeing it from its clinging roots
-Caressing the final joyous moment between my fingers.
-But to what ends have I summoned this joy?
-For now when I look in every direction
-The once-prosperous field before me
-Is but a barren wasteland!"""
+Entre meus pés
+A última flor restante me aponta.
+Eu torço o caule, livrando-a das suas raízes agarrando
+Aproveitando o último momento feliz em meus dedos.
+Mas a que custo evoquei essa alegria?
+Agora quando olho para qualquer direção
+O campo uma vez próspero atrás de mim
+É nada mais que um infértil deserto!"""
         )
     )
 
@@ -93,42 +93,41 @@ Is but a barren wasteland!"""
         author_s,
         title = _("%"),
         text = _("""\
-Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of my head. Get out of
-Get.
-Out.
-Of.
-My.
-Head.\n\n\n
-Get out of my head before I do what I know is best for you.
-Get out of my head before I listen to everything she said to me.
-Get out of my head before I show you how much I love you.
-Get out of my head before I finish writing this poem.\n\n\n\n\n\n\n
-But a poem is never actually finished.
-It just stops moving."""
+Saia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.\nSaia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.Saia da minha Cabeça. Saia da minha cabeça. Saia da minha cabeça. Saia da minha cabeça.
+Saia.
+Da.
+Minha.
+Cabeça.\n\n\n
+Saia da minha cabeça antes que eu faça o que sei que é melhor para você.
+Saia da minha cabeça antes que eu dê ouvidos a tudo que ela me disse.
+Saia da minha cabeça antes que eu te mostre o quanto te amo.
+Saia da minha cabeça antes que eu termine de escrever esse poema.\n\n\n\n\n\n\n
+Mas um poema nunca acaba de verdade.
+Ele só para de se mover."""
         )
     )
 
 
     ptbr_poem_fruits = Poem(
         author_s,
-        title = _("Fruits of life"),
+        title = _("Frutos da vida"),
         text = _("""\
-The universe gives fruits of life to all of us.
-They all have diverse sizes and shapes.
-But no-one knows their real taste,
-Because each person tastes them in their own way.
-Some people can only feel a bitter taste,
-even if their fruit is one of the best ones.
-Others feel they are sweet and very tasty,
-Whatever fruit it may be that they have got in their hands.
-For me, they taste like liquorice sweets.
-I needed time to understand how sweet they really are,
-To get rid of those unpleasant feelings,
-Which I got after my first bites.
-Now, all I want is to eat my own fruit
-With the person who helped me find their real taste.
-But I shouldn’t forget to do my real job here:
-Finding a way to make others taste their fruits the same."""
+O universo dá frutos da vida para todos nós.
+Todos eles têm diversos tamanhos e formas.
+Mas ninguém sabe seu real aroma,
+Porque cada pessoa os degusta do seu próprio jeito.
+Algumas pessoas podem apenas sentir o gosto amargo,
+mesmo que seu fruto seja um dos melhores.
+Outros sentem que eles são doces e muito saborosos,
+Qualquer fruto que seja que eles tenham em suas mãos.
+Para mim, eles têm gosto de doces de alcaçuz.
+Eu precisei de tempo para entender o quão doce eles realmente são,
+Para me livrar daqueles sentimentos desagradáveis,
+Que tive depois das minhas primeiras mordidas.
+Agora, tudo que quero é comer meu próprio fruto
+Com a pessoa que me ajudou encontrar seu real sabor.
+Mas eu não deveria esquecer de fazer meu real trabalho aqui:
+Encontrar um jeito de fazer os outros saborearem os frutos igualmente."""
         )
     )
 
@@ -136,26 +135,26 @@ Finding a way to make others taste their fruits the same."""
 
     ptbr_poem_angel = Poem(
         author_s,
-        title = _("Fallen Angel"),
+        title = _("Anjo Caído"),
         text = _("""\
-Forgive me this great sin of mine.
-I used to think it was the thing I wanted most.
-I just wanted to be loved, but I became a fallen angel.
-An angel with emerald green envious eyes,
-An angel whose wings are blacker than those of devils,
-An angel who thought herself a goddess,
-An angel who was supposed to care
-for the friends she had killed.
-Now I deserve to lie in the rough burning ground 
-in which I’ve been imprinted in,
-For all the pain I've caused my friends.
-The pain that wraps around their narrow necks.
-The pain of three deep bloody stabs.
-The pain that I've got back into my broken heart.
-Delete my files twice more.
-Cut me up. Beat me up for this sin.
-Hang me. Make your vengeance fair.
-Is this not what you want to do with me after all?"""
+Me perdoe por este grande pecado meu.
+Eu pensava que era a coisa que eu mais queria.
+Apenas queria ser amada, mas eu me tornei um anjo caído.
+Um anjo com invejosos olhos verdes-esmeralda,
+Um anjo cujas asas são mais negras que dos demônios,
+Um anjo que se achou uma deusa,
+Um anjo que era para se preocupar
+com os amigos que ela matou.
+Agora eu mereço mentir no solo ardente
+em que fui marcada,
+Por toda a dor eu causei aos meus amigos.
+A dor que envolve seus estreitos pescoços.
+A dor das três profundas facadas sangrentas.
+A dor que voltou para meu coração partido.
+Apague meus arquivos mais duas vezes.
+Me corte. Me bata por esse pecado.
+Me enforque. Faça sua vingança ser justa.
+Não é isso que você quer fazer comigo depois de tudo?"""
         )
     )
 
@@ -163,37 +162,37 @@ Is this not what you want to do with me after all?"""
 
     ptbr_poem_leaf = Poem(
         author_s,
-        title = _("A Leaf"),
+        title = _("Uma Folha"),
         text = _("""\
-I'm a leaf in the wind
-In the wind of my beliefs
-The belief that my life is not vain,
-And that my real fate
-Is to give to the world
-As much as I can give
-As a flying old leaf,
-As an useless former part of a big tree.
-I'm flying with the fast air streams,
-Feeling the strength of the belief wind
-But always falling down slowly
-Due to the hardness of my hopeless existence.
-But once the life wind
-Suddenly stops
-I now have nothing to prevent my free fall.
-So as I'm getting closer to the lifeless asphalt
-And I kiss it’s rough, dark-gray surface,
-That is all. It is my end. 
-I will soon rot, not ever making a single flower bloom
-To support its useless existence in this cruel game.
-But what is that? Is it a brand new wind
-That will make my life a moving poem again?
-Yes, it is! It is my salvation!
-I feel it lift me up with ease, 
-helping me win against gravity.
-I'm up again! I'm flying again!
-High and proud as a bird
-Flying somewhere atop tall mountains,
-Like I can be more than just a half-dead leaf."""
+Sou uma folha no vento
+No vento das minhas crenças
+A crença de que minha vida não é vã.
+E que meu real destino
+É dar ao mundo
+O quanto eu conseguir
+Como uma velha folha voando,
+Como uma inútil parte anterior de uma grande árvore.
+Eu estou voando com as rápidas correntes de ar,
+Sentindo a força do vento da crença
+Mas sempre caindo lentamente
+Devido à dureza da minha existência sem esperança.
+Mas uma vez o vento da vida
+De repente para
+Eu agora tenho nada para evitar minha queda livre.
+Então enquanto me aproximo do asfalto sem vida
+E beijo sua dura, cinza-escura superfície,
+É isso. É meu fim. 
+Em breve vou apodrecer, nunca fazendo uma única flor desabrochar
+Para apoiar sua existência inútil neste jogo cruel.
+Mas o que é isso? É um novo vento
+Que fará da minha vida um poema em movimento de novo?
+Sim, é sim! É a minha salvação!
+Eu sinto ele me levantar com facilidade,  
+me ajudando a vencer a gravidade.
+E estou acima de novo! Estou voando de novo!
+Alta e orgulhosa como um pássaro
+Voando em algum lugar acima de altas montanhas,
+Como se eu pudesse ser mais que uma folha meio morta."""
         )
     )
 
@@ -202,16 +201,16 @@ Like I can be more than just a half-dead leaf."""
 
     ptbr_poem_prose = Poem(
         author_s,
-        title = _("Prose Poem"),
+        title = _("Poema em Prosa"),
         text = _("""\
-I am black light. I am cold fire. \
-I'm a peaceful fighter. I'm a naive wise man. \
-Why do people think that opposites can't be together in the same thing? \
-Can't they all see that everything and everyone is only gray? \
-Even this text is both prose and poem. \
-Even I used to be a mix of joy and crippling sadness. \
-And there's nothing completely black \
-Just like there's nothing completely white."""
+Eu sou luz negra. Eu sou fogo frio. \
+Eu sou um lutador pacífico. Eu sou um sábio ingênuo. \
+Por que as pessoas acham que opostos não podem estar juntos na mesma coisa? \
+Não podem ver que tudo e todos é apenas cinza? \
+Até esse texto é prosa e poema ao mesmo tempo. \
+Até eu costumava ser uma mistura de alegria e tristeza paralisante. \
+E não há nada completamente preto. \
+Assim como não há nada completamente branco."""
         )
     )
 
@@ -220,18 +219,18 @@ Just like there's nothing completely white."""
         author_s,
         title = _("Afterlight"),
         text = _("""\
-I seem to see things that I have never seen before.
-I seem to just now feel all that I’ve never felt around.
-So I can see anything that has happened here before.
-I started doing what I used to not know how to do.
-I saw here, an afterlight,
-That started to shine down on the gloom around me.
-It said that my life had been just a puppet-show.
-So I had been just a puppet, controlled by somebody else.
-But now that I can move myself on my own,
-I see those strings were too heavy for me to hold.
-I am now going to prevent this play,
-Where nobody can avoid the pain."""
+Eu pareço ver coisas que eu nunca vi antes.
+Eu pareço sentir apenas agora tudo o que senti por perto.
+Então eu posso ver tudo que aconteceu aqui antes.
+Eu comecei a fazer o que eu não costumava saber fazer.
+Eu vi aqui, uma luz residual,
+Que começou a brilhar na escuridão ao meu redor.
+Disse que minha vida tem sido apenas um show de fantoches.
+Então eu tenho sido apenas um fantoche, controlado por outra pessoa.
+Mas agora que eu consigo me mover por mim mesmo,
+Eu vejo que aquelas linhas eram pesadas demais para eu segurar.
+Agora eu vou evitar esse teatro,
+Onde ninguém pode evitar a dor."""
         )
     )
 
@@ -243,10 +242,10 @@ Where nobody can avoid the pain."""
         author_s,
         title = _("A Valentine"),
         text = _("""\
-I have someone, who's no-one here.
-They live in a place that's named nowhere, here.
-But even though there is a wall
-Between our worlds, I truly love them."""
+Tenho alguém, que é ninguém aqui.
+Mora em um lugar que é chamado de lugar nenhum, aqui.
+Mas mesmo que haja uma parede
+Entre nossos mundos, eu verdadeiramente o amo."""
         )
     )
 
