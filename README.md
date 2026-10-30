@@ -41,7 +41,7 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 
 ### PC
 
-1. Baixe a última versão do mod [aqui](https://github.com/johnfg-archbtw/justsayori-mod-tl-ptbr/releases): selecione o arquivo começando com `JustSayori` e terminando com `pc` (ex. `JustSayori-PTBR-1.2.0-r1-pc.zip`).
+1. Baixe a última versão do mod [aqui](https://github.com/johnfg-archbtw/justsayori-mod-ptbr/releases): selecione o arquivo começando com `JustSayori` e terminando com `pc` (ex. `JustSayori-PTBR-1.2.0-r1-pc.zip`).
 2. Extraia o arquivo de mod do Just Sayori.
 3. Execute o jogo: Execute `JustSayori.exe` se estiver em sistema Windows, ou `JustSayori.sh` se estiver em um sistema Linux.
 
