@@ -72,7 +72,7 @@ Para reports bugs de sistema, solicitar suporte técnico, ou dar feedback sobre 
 ###  Atual Manutenção & Desenvolvimento
 _O time atualmente deixando os pensamentos felizes fluindo!_
 
-*   **Just:** Project Lead, Líder de Desenvolvedor
+*   **Just:** Líder do Projeto, Líder de Desenvolvedor
 *   **Fran:** Tradutor para Espanhol, Escritor
 *   **Nico:** Tradutor para Espanhol
 *   **João (eu mesmo):** Tradutor para Português Brasileiro
