@@ -57,7 +57,7 @@ Esse mod foi feito para ser usado com uma cópia limpa do jogo original pelo Tea
 8. O aplicativo pedirá que uma versão do Ren'Py seja selecionada para executar o jogo, selecione a versão 8.4.1, depois aperte em "Selecionar".
 9. Aproveite o jogo.
 
-Este ZIP terminando `mine` não contém as pastas `renpy` nem `lib` para executar jogos Ren'Py, já que o sistema MINE não utiliza essas pastas para executar os jogos, pois ele usa os binários do Ren'Py do próprio aplicativo, por isso é recomendado baixar o arquivo terminando em `mine` para economizar espaço; o terminando o `pc` tem essas pastas.
+Este ZIP terminando em `mine` não contém as pastas `renpy` nem `lib` para executar jogos Ren'Py, já que o sistema MINE não utiliza essas pastas para executar os jogos, pois ele usa os binários do Ren'Py do próprio aplicativo, por isso é recomendado baixar o arquivo terminando em `mine` para economizar espaço; o terminando o `pc` tem essas pastas.
 
 ---
 
